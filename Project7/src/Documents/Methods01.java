@@ -3,7 +3,9 @@ package Documents;
 public class Methods01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	System.out.println(" I am from remote ripo");
+	System.out.println(" I am from remote ripo1");	
+	System.out.println(" I am from remote rip2");	
 
 	}
 
